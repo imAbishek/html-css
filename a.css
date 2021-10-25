@@ -1,0 +1,91 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-image: url(clouds.jpg);
+  font-family: "Arial";
+}
+
+.login {
+  width: 382px;
+  overflow: hidden;
+  margin: auto;
+  margin: 20 0 0 450px;
+  padding: 50px;
+  text-align: center;
+  border-radius: 15px;
+}
+
+p {
+  color: #277582;
+  font-size: 17px;
+  padding-left: 40px;
+  text-align: left;
+  align-items: left;
+}
+a.acc {
+  text-align: right;
+  padding-right: 0px;
+}
+
+#Uname {
+  width: 300px;
+  height: 30px;
+  border: none;
+  border-radius: 3px;
+  padding-left: 8px;
+}
+#Pass {
+  width: 300px;
+  height: 30px;
+  border: none;
+  border-radius: 3px;
+  padding-left: 8px;
+}
+
+a {
+  text-align: right;
+  padding-left: 185px;
+}
+
+#log {
+  width: 250px;
+  height: 30px;
+  text-align: center;
+  border: none;
+  color: white;
+  background-color: orangered;
+}
+.acc {
+  padding-left: 0px;
+}
+body {
+  margin: 0;
+  padding: 0;
+  background: #ccc;
+}
+.ak ul {
+  list-style: none;
+  background: #663366;
+  text-align: center;
+  padding: 0;
+  margin: 0;
+}
+.ak li {
+  display: inline-block;
+}
+.ak a {
+  text-decoration: none;
+  color: #fff;
+  width: 100px;
+  display: block;
+  padding: 15px;
+  font-size: 17px;
+  font-family: Helvetica;
+  transition: 0.4s;
+}
+.logo {
+  height: 43px;
+  width: 43px;
+  float: left;
+  border-radius: 30px;
+}
